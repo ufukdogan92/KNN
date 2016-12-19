@@ -1,0 +1,16 @@
+x,y,cluster
+1,4,iyi
+2,4,iyi
+1,5,iyi
+2,6,iyi
+5,1,orta
+5,2,orta
+6,3,orta
+7,2,orta
+5,6,kötü
+5,5,kötü
+6,5,kötü
+7,5,kötü
+1,2,iyi
+2,1,iyi
+2,1,iyi
